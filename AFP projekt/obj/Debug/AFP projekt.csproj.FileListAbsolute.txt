@@ -1,0 +1,22 @@
+c:\users\eke\source\repos\AFP projekt\AFP projekt\bin\Debug\DB\AFP_DB.mdf
+c:\users\eke\source\repos\AFP projekt\AFP projekt\bin\Debug\DB\AFP_DB_log.ldf
+c:\users\eke\source\repos\AFP projekt\AFP projekt\bin\Debug\AFP projekt.exe.config
+c:\users\eke\source\repos\AFP projekt\AFP projekt\bin\Debug\AFP projekt.exe
+c:\users\eke\source\repos\AFP projekt\AFP projekt\bin\Debug\AFP projekt.pdb
+c:\users\eke\source\repos\AFP projekt\AFP projekt\bin\Debug\EntityFramework.dll
+c:\users\eke\source\repos\AFP projekt\AFP projekt\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\eke\source\repos\AFP projekt\AFP projekt\bin\Debug\EntityFramework.xml
+c:\users\eke\source\repos\AFP projekt\AFP projekt\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\AFP projekt.csprojResolveAssemblyReference.cache
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\MainWindow.g.cs
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\App.g.cs
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\AFP projekt_Content.g.cs
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\AFP projekt_MarkupCompile.cache
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\AFP projekt_MarkupCompile.lref
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\MainWindow.baml
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\AFP projekt.g.resources
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\AFP_projekt.Properties.Resources.resources
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\AFP projekt.csproj.GenerateResource.Cache
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\AFP projekt.csproj.CoreCompileInputs.cache
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\AFP projekt.exe
+c:\users\eke\source\repos\AFP projekt\AFP projekt\obj\Debug\AFP projekt.pdb
